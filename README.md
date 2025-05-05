@@ -6,7 +6,7 @@ Olá, me chamo Enzo Eduardo Allebrand, tenho 18 anos e sou natural do Rio Grande
 
 ---
 
-### Tecnologias
+### Skills
 
 <img 
     align="left" 
