@@ -2,7 +2,7 @@
 
 **Desenvolvedor Web**
 
-Olá! Sou Enzo Allebrand, Desenvolvedor na **Abase Sistema** e estudante de Engenharia de Computação na Setrem.
+Olá! Sou Enzo Allebrand, Desenvolvedor na **Abase Sistemas** e estudante de Engenharia de Computação na Setrem.
 
 Atualmente, meu foco está no ecossistema .NET, aprimorando minhas habilidades em C#, ASP.NET Core, APIs e bancos de dados relacionais.
 
