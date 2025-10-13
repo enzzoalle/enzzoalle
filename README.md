@@ -1,94 +1,22 @@
 # Enzo Allebrand
 
-**`Desenvolvedor Web júnior`**
+**Desenvolvedor Web**
 
-Olá, me chamo Enzo Eduardo Allebrand, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio técnico em Mecatrônica no IFFar – Campus Santa Rosa e atualmente estou cursando Engenharia da Computação na Setrem. Tenho grande interesse pelo desenvolvimento web e estou sempre buscando evoluir na área. Compartilho meus projetos pelo meu [LinkedIn](https://www.linkedin.com/in/enzo-allebrand/) e, se quiser trocar uma ideia sobre tecnologia ou acha que pode me ajudar em algum projeto, me envie uma mensagem no [Instagram](https://www.instagram.com/enzzo_alle/).
+Olá! Sou Enzo Allebrand, Desenvolvedor na **Abase** e estudante de Engenharia da Computação na Setrem.
+
+Atualmente, meu foco está no ecossistema .NET, aprimorando minhas habilidades em C#, ASP.NET Core, APIs e bancos de dados relacionais.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-allebrand/)
+&nbsp;
 
 ---
 
-### Skills
+### 🚀 Principais Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Django"
-    title="Django"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
-/>
-
-<br/>
-<br/>
-
-### Estatísticas
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzzoalle&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="ExtJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+</div>
